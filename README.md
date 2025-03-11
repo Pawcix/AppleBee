@@ -7,6 +7,5 @@
 
 ![image](https://github.com/user-attachments/assets/9b20d9b6-ae33-4745-aec7-385172bafbac)
 
-
 ## Author
 **Paweł Szatanik**
