@@ -5,7 +5,6 @@
 ## About the Game
 **Apple Bee** is a simple and fun game in which the player must survive the onslaught of evil bees, he can only use his agility and the power of throwing apples, your task is to survive as long as you can. Enjoy playing :D
 
-![image](https://github.com/user-attachments/assets/c667df5e-b892-4672-8733-21ef982a1504)
 ![image](https://github.com/user-attachments/assets/9b20d9b6-ae33-4745-aec7-385172bafbac)
 
 
